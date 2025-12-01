@@ -9442,3 +9442,1939 @@
   2025-08-12 14:23:32 Running ["artisan" lelang:update-status] .......................................... 9,016ms FAIL
   ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
 
+
+  2025-08-12 14:24:32 Running ["artisan" lelang:update-status] .......................................... 9,000ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:25:32 Running ["artisan" lelang:update-status] .......................................... 9,066ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:26:32 Running ["artisan" lelang:update-status] .......................................... 9,007ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:27:32 Running ["artisan" lelang:update-status] .......................................... 9,033ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:28:32 Running ["artisan" lelang:update-status] .......................................... 9,065ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:29:32 Running ["artisan" lelang:update-status] .......................................... 9,255ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:30:32 Running ["artisan" lelang:update-status] .......................................... 9,247ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:31:32 Running ["artisan" lelang:update-status] .......................................... 9,013ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:32:32 Running ["artisan" lelang:update-status] .......................................... 9,252ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:33:32 Running ["artisan" lelang:update-status] .......................................... 9,460ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:34:32 Running ["artisan" lelang:update-status] .......................................... 9,039ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:35:32 Running ["artisan" lelang:update-status] .......................................... 9,038ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:36:32 Running ["artisan" lelang:update-status] .......................................... 9,061ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:37:32 Running ["artisan" lelang:update-status] .......................................... 9,222ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:38:32 Running ["artisan" lelang:update-status] .......................................... 9,049ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:39:32 Running ["artisan" lelang:update-status] .......................................... 9,248ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:40:32 Running ["artisan" lelang:update-status] .......................................... 9,019ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:41:32 Running ["artisan" lelang:update-status] .......................................... 8,870ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:42:32 Running ["artisan" lelang:update-status] .......................................... 8,889ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:43:32 Running ["artisan" lelang:update-status] .......................................... 9,002ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:44:32 Running ["artisan" lelang:update-status] .......................................... 9,029ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:45:32 Running ["artisan" lelang:update-status] .......................................... 9,260ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:46:32 Running ["artisan" lelang:update-status] .......................................... 9,248ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:47:32 Running ["artisan" lelang:update-status] .......................................... 9,038ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:48:32 Running ["artisan" lelang:update-status] .......................................... 9,006ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:49:32 Running ["artisan" lelang:update-status] .......................................... 9,033ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:50:32 Running ["artisan" lelang:update-status] .......................................... 8,887ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:51:32 Running ["artisan" lelang:update-status] .......................................... 9,006ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:52:32 Running ["artisan" lelang:update-status] .......................................... 9,005ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:53:32 Running ["artisan" lelang:update-status] .......................................... 8,887ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:54:32 Running ["artisan" lelang:update-status] .......................................... 9,005ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:55:32 Running ["artisan" lelang:update-status] .......................................... 8,866ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:56:32 Running ["artisan" lelang:update-status] .......................................... 9,254ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:57:32 Running ["artisan" lelang:update-status] .......................................... 9,050ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:58:32 Running ["artisan" lelang:update-status] .......................................... 9,045ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 14:59:32 Running ["artisan" lelang:update-status] .......................................... 8,979ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:00:32 Running ["artisan" lelang:update-status] .......................................... 9,035ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:01:32 Running ["artisan" lelang:update-status] .......................................... 9,068ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:03:32 Running ["artisan" lelang:update-status] .......................................... 9,022ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:04:32 Running ["artisan" lelang:update-status] .......................................... 9,046ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:05:32 Running ["artisan" lelang:update-status] .......................................... 8,958ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:06:32 Running ["artisan" lelang:update-status] .......................................... 9,023ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:07:32 Running ["artisan" lelang:update-status] .......................................... 9,073ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:08:32 Running ["artisan" lelang:update-status] .......................................... 9,009ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:09:32 Running ["artisan" lelang:update-status] .......................................... 9,080ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:11:32 Running ["artisan" lelang:update-status] .......................................... 9,323ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:13:32 Running ["artisan" lelang:update-status] .......................................... 9,295ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:14:32 Running ["artisan" lelang:update-status] .......................................... 9,003ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:15:32 Running ["artisan" lelang:update-status] .......................................... 9,215ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:16:32 Running ["artisan" lelang:update-status] .......................................... 9,209ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:17:32 Running ["artisan" lelang:update-status] .......................................... 9,060ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:24:32 Running ["artisan" lelang:update-status] .......................................... 9,103ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:26:32 Running ["artisan" lelang:update-status] .......................................... 8,913ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:27:32 Running ["artisan" lelang:update-status] .......................................... 9,265ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:28:32 Running ["artisan" lelang:update-status] .......................................... 9,263ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:46:04 Running ["artisan" lelang:update-status] .......................................... 8,937ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:47:32 Running ["artisan" lelang:update-status] .......................................... 8,793ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:48:32 Running ["artisan" lelang:update-status] .......................................... 8,797ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:49:32 Running ["artisan" lelang:update-status] .......................................... 8,779ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:50:32 Running ["artisan" lelang:update-status] .......................................... 8,883ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:51:32 Running ["artisan" lelang:update-status] .......................................... 8,741ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:52:32 Running ["artisan" lelang:update-status] .......................................... 8,737ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:53:32 Running ["artisan" lelang:update-status] .......................................... 8,846ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:54:32 Running ["artisan" lelang:update-status] .......................................... 8,805ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:55:32 Running ["artisan" lelang:update-status] .......................................... 8,786ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:56:32 Running ["artisan" lelang:update-status] .......................................... 8,783ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:57:32 Running ["artisan" lelang:update-status] .......................................... 8,833ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:58:32 Running ["artisan" lelang:update-status] .......................................... 8,781ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 15:59:32 Running ["artisan" lelang:update-status] .......................................... 8,927ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:00:33 Running ["artisan" lelang:update-status] .......................................... 9,016ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:01:32 Running ["artisan" lelang:update-status] .......................................... 8,946ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:02:33 Running ["artisan" lelang:update-status] .......................................... 9,034ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:03:32 Running ["artisan" lelang:update-status] .......................................... 8,737ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:04:32 Running ["artisan" lelang:update-status] .......................................... 8,799ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:05:32 Running ["artisan" lelang:update-status] .......................................... 8,774ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:06:32 Running ["artisan" lelang:update-status] .......................................... 9,001ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:07:32 Running ["artisan" lelang:update-status] .......................................... 8,760ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:08:32 Running ["artisan" lelang:update-status] .......................................... 8,765ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:09:32 Running ["artisan" lelang:update-status] .......................................... 8,746ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:10:32 Running ["artisan" lelang:update-status] .......................................... 8,826ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:11:32 Running ["artisan" lelang:update-status] .......................................... 8,793ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:12:32 Running ["artisan" lelang:update-status] .......................................... 8,801ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:13:32 Running ["artisan" lelang:update-status] .......................................... 8,755ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:14:32 Running ["artisan" lelang:update-status] ......................................... 10,056ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:15:32 Running ["artisan" lelang:update-status] .......................................... 8,821ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:16:32 Running ["artisan" lelang:update-status] .......................................... 9,238ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:17:32 Running ["artisan" lelang:update-status] .......................................... 8,778ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:18:32 Running ["artisan" lelang:update-status] .......................................... 9,031ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:19:32 Running ["artisan" lelang:update-status] .......................................... 8,745ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:20:32 Running ["artisan" lelang:update-status] .......................................... 8,758ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:21:32 Running ["artisan" lelang:update-status] .......................................... 8,841ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:22:32 Running ["artisan" lelang:update-status] .......................................... 8,820ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:24:32 Running ["artisan" lelang:update-status] .......................................... 8,785ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:25:32 Running ["artisan" lelang:update-status] .......................................... 8,990ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:26:32 Running ["artisan" lelang:update-status] .......................................... 9,059ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:27:32 Running ["artisan" lelang:update-status] .......................................... 9,010ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:28:32 Running ["artisan" lelang:update-status] .......................................... 9,007ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:29:32 Running ["artisan" lelang:update-status] .......................................... 9,218ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:30:32 Running ["artisan" lelang:update-status] .......................................... 8,807ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:31:32 Running ["artisan" lelang:update-status] .......................................... 9,006ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:32:32 Running ["artisan" lelang:update-status] .......................................... 9,002ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:33:32 Running ["artisan" lelang:update-status] .......................................... 9,032ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:34:32 Running ["artisan" lelang:update-status] .......................................... 8,992ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:35:32 Running ["artisan" lelang:update-status] .......................................... 9,002ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:36:32 Running ["artisan" lelang:update-status] .......................................... 8,999ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:37:32 Running ["artisan" lelang:update-status] .......................................... 8,884ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:38:32 Running ["artisan" lelang:update-status] .......................................... 8,841ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:39:32 Running ["artisan" lelang:update-status] .......................................... 8,764ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:40:32 Running ["artisan" lelang:update-status] .......................................... 8,795ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:41:32 Running ["artisan" lelang:update-status] .......................................... 8,922ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:42:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:43:32 Running ["artisan" lelang:update-status] .......................................... 8,783ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:44:32 Running ["artisan" lelang:update-status] .......................................... 8,816ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:45:32 Running ["artisan" lelang:update-status] .......................................... 8,752ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:46:32 Running ["artisan" lelang:update-status] .......................................... 8,808ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:47:32 Running ["artisan" lelang:update-status] .......................................... 8,831ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:48:32 Running ["artisan" lelang:update-status] .......................................... 8,782ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:49:32 Running ["artisan" lelang:update-status] .......................................... 8,797ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:50:32 Running ["artisan" lelang:update-status] .......................................... 8,825ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:51:32 Running ["artisan" lelang:update-status] .......................................... 8,789ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:52:32 Running ["artisan" lelang:update-status] .......................................... 8,731ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:53:32 Running ["artisan" lelang:update-status] .......................................... 8,754ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:54:32 Running ["artisan" lelang:update-status] .......................................... 8,781ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:55:32 Running ["artisan" lelang:update-status] .......................................... 8,747ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:56:32 Running ["artisan" lelang:update-status] .......................................... 8,784ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:57:32 Running ["artisan" lelang:update-status] .......................................... 8,768ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:58:32 Running ["artisan" lelang:update-status] .......................................... 8,828ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 16:59:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:00:32 Running ["artisan" lelang:update-status] .......................................... 8,771ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:01:32 Running ["artisan" lelang:update-status] .......................................... 8,775ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:02:32 Running ["artisan" lelang:update-status] .......................................... 8,959ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:03:32 Running ["artisan" lelang:update-status] .......................................... 8,757ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:04:32 Running ["artisan" lelang:update-status] .......................................... 8,760ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:05:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:06:32 Running ["artisan" lelang:update-status] .......................................... 8,756ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:07:32 Running ["artisan" lelang:update-status] .......................................... 8,790ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:08:32 Running ["artisan" lelang:update-status] .......................................... 8,756ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:09:32 Running ["artisan" lelang:update-status] .......................................... 8,731ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:10:32 Running ["artisan" lelang:update-status] .......................................... 8,734ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:11:32 Running ["artisan" lelang:update-status] .......................................... 8,770ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:12:32 Running ["artisan" lelang:update-status] .......................................... 8,733ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:13:32 Running ["artisan" lelang:update-status] .......................................... 8,766ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:14:32 Running ["artisan" lelang:update-status] .......................................... 8,749ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:15:32 Running ["artisan" lelang:update-status] .......................................... 8,674ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:16:32 Running ["artisan" lelang:update-status] .......................................... 8,745ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:17:32 Running ["artisan" lelang:update-status] .......................................... 8,782ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:18:32 Running ["artisan" lelang:update-status] .......................................... 8,755ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:19:32 Running ["artisan" lelang:update-status] .......................................... 8,747ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:20:32 Running ["artisan" lelang:update-status] .......................................... 8,773ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:21:32 Running ["artisan" lelang:update-status] .......................................... 8,772ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:22:32 Running ["artisan" lelang:update-status] .......................................... 8,746ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:23:32 Running ["artisan" lelang:update-status] .......................................... 8,742ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:24:32 Running ["artisan" lelang:update-status] .......................................... 8,740ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:25:32 Running ["artisan" lelang:update-status] .......................................... 8,761ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:26:32 Running ["artisan" lelang:update-status] .......................................... 8,746ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:27:32 Running ["artisan" lelang:update-status] .......................................... 8,746ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:28:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:29:32 Running ["artisan" lelang:update-status] .......................................... 8,750ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:30:32 Running ["artisan" lelang:update-status] .......................................... 8,728ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:31:32 Running ["artisan" lelang:update-status] .......................................... 8,766ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:32:32 Running ["artisan" lelang:update-status] .......................................... 8,762ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:33:32 Running ["artisan" lelang:update-status] .......................................... 8,780ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:34:32 Running ["artisan" lelang:update-status] .......................................... 8,951ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:35:32 Running ["artisan" lelang:update-status] .......................................... 8,946ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:36:32 Running ["artisan" lelang:update-status] .......................................... 8,969ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:37:32 Running ["artisan" lelang:update-status] .......................................... 8,903ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:38:32 Running ["artisan" lelang:update-status] .......................................... 8,855ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:39:32 Running ["artisan" lelang:update-status] .......................................... 8,781ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:40:32 Running ["artisan" lelang:update-status] .......................................... 8,872ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:41:32 Running ["artisan" lelang:update-status] .......................................... 8,768ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:42:32 Running ["artisan" lelang:update-status] .......................................... 8,848ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:43:32 Running ["artisan" lelang:update-status] .......................................... 9,096ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 17:44:32 Running ["artisan" lelang:update-status] .......................................... 9,050ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:49:35 Running ["artisan" lelang:update-status] .......................................... 9,624ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:50:35 Running ["artisan" lelang:update-status] .......................................... 9,207ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:51:32 Running ["artisan" lelang:update-status] .......................................... 9,109ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:52:36 Running ["artisan" lelang:update-status] ......................................... 12,686ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:56:32 Running ["artisan" lelang:update-status] .......................................... 8,996ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 18:57:32 Running ["artisan" lelang:update-status] .......................................... 9,029ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:02:33 Running ["artisan" lelang:update-status] .......................................... 9,221ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:06:32 Running ["artisan" lelang:update-status] .......................................... 9,009ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:09:32 Running ["artisan" lelang:update-status] .......................................... 9,043ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:10:32 Running ["artisan" lelang:update-status] .......................................... 9,026ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:11:32 Running ["artisan" lelang:update-status] .......................................... 8,992ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:13:32 Running ["artisan" lelang:update-status] .......................................... 9,046ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:19:56 Running ["artisan" lelang:update-status] ........................................ 945,061ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:36:32 Running ["artisan" lelang:update-status] .......................................... 9,031ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:37:32 Running ["artisan" lelang:update-status] .......................................... 9,484ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 19:51:33 Running ["artisan" lelang:update-status] .......................................... 9,029ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:02:32 Running ["artisan" lelang:update-status] .......................................... 9,006ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:03:32 Running ["artisan" lelang:update-status] .......................................... 9,096ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:04:32 Running ["artisan" lelang:update-status] .......................................... 8,989ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:05:32 Running ["artisan" lelang:update-status] .......................................... 9,011ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:06:33 Running ["artisan" lelang:update-status] .......................................... 9,863ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:20:32 Running ["artisan" lelang:update-status] .......................................... 8,780ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:24:32 Running ["artisan" lelang:update-status] .......................................... 8,727ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:33:32 Running ["artisan" lelang:update-status] .......................................... 8,794ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:38:32 Running ["artisan" lelang:update-status] .......................................... 8,811ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 20:52:32 Running ["artisan" lelang:update-status] .......................................... 8,792ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:00:32 Running ["artisan" lelang:update-status] .......................................... 9,167ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:01:34 Running ["artisan" lelang:update-status] .......................................... 8,767ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:03:32 Running ["artisan" lelang:update-status] .......................................... 8,768ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:05:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:08:32 Running ["artisan" lelang:update-status] .......................................... 8,759ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:09:32 Running ["artisan" lelang:update-status] .......................................... 8,782ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:10:32 Running ["artisan" lelang:update-status] .......................................... 8,755ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:11:32 Running ["artisan" lelang:update-status] .......................................... 8,784ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:12:32 Running ["artisan" lelang:update-status] .......................................... 8,830ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:13:32 Running ["artisan" lelang:update-status] .......................................... 8,787ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:14:32 Running ["artisan" lelang:update-status] .......................................... 8,798ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:15:32 Running ["artisan" lelang:update-status] .......................................... 8,762ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:16:32 Running ["artisan" lelang:update-status] .......................................... 8,776ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:17:32 Running ["artisan" lelang:update-status] .......................................... 8,722ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:18:32 Running ["artisan" lelang:update-status] .......................................... 8,786ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:19:32 Running ["artisan" lelang:update-status] .......................................... 8,769ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:20:32 Running ["artisan" lelang:update-status] .......................................... 8,799ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:28:32 Running ["artisan" lelang:update-status] .......................................... 8,765ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:36:32 Running ["artisan" lelang:update-status] .......................................... 8,794ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:37:32 Running ["artisan" lelang:update-status] .......................................... 8,951ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:40:32 Running ["artisan" lelang:update-status] .......................................... 8,781ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:42:32 Running ["artisan" lelang:update-status] .......................................... 8,769ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:44:32 Running ["artisan" lelang:update-status] .......................................... 8,806ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:45:32 Running ["artisan" lelang:update-status] .......................................... 8,790ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-12 21:46:32 Running ["artisan" lelang:update-status] ..................................... 37,788,907ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:16:38 Running ["artisan" lelang:update-status] .......................................... 9,128ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:17:36 Running ["artisan" lelang:update-status] .......................................... 9,679ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:18:32 Running ["artisan" lelang:update-status] .......................................... 8,981ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:19:32 Running ["artisan" lelang:update-status] .......................................... 9,008ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:20:32 Running ["artisan" lelang:update-status] .......................................... 9,010ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:21:32 Running ["artisan" lelang:update-status] .......................................... 9,032ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:25:32 Running ["artisan" lelang:update-status] .......................................... 8,987ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:26:32 Running ["artisan" lelang:update-status] .......................................... 9,033ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:27:32 Running ["artisan" lelang:update-status] .......................................... 9,028ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:28:32 Running ["artisan" lelang:update-status] .......................................... 9,004ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:30:32 Running ["artisan" lelang:update-status] .......................................... 8,967ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:31:32 Running ["artisan" lelang:update-status] .......................................... 9,021ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:38:32 Running ["artisan" lelang:update-status] .......................................... 8,845ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:40:32 Running ["artisan" lelang:update-status] .......................................... 9,277ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:43:32 Running ["artisan" lelang:update-status] .......................................... 9,032ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:46:32 Running ["artisan" lelang:update-status] .......................................... 9,201ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:52:32 Running ["artisan" lelang:update-status] .......................................... 9,033ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:53:32 Running ["artisan" lelang:update-status] .......................................... 8,988ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:54:32 Running ["artisan" lelang:update-status] .......................................... 9,000ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:55:32 Running ["artisan" lelang:update-status] .......................................... 8,979ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 08:56:32 Running ["artisan" lelang:update-status] .......................................... 9,001ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:07:32 Running ["artisan" lelang:update-status] .......................................... 9,014ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:11:32 Running ["artisan" lelang:update-status] .......................................... 9,040ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:12:32 Running ["artisan" lelang:update-status] .......................................... 9,040ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:13:32 Running ["artisan" lelang:update-status] .......................................... 8,948ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:14:32 Running ["artisan" lelang:update-status] .......................................... 9,019ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:19:32 Running ["artisan" lelang:update-status] .......................................... 8,754ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:26:32 Running ["artisan" lelang:update-status] .......................................... 8,782ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:27:32 Running ["artisan" lelang:update-status] .......................................... 8,823ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:28:32 Running ["artisan" lelang:update-status] .......................................... 8,963ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:31:32 Running ["artisan" lelang:update-status] .......................................... 8,775ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:36:32 Running ["artisan" lelang:update-status] .......................................... 8,769ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:37:32 Running ["artisan" lelang:update-status] .......................................... 8,758ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:38:32 Running ["artisan" lelang:update-status] .......................................... 8,780ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:40:32 Running ["artisan" lelang:update-status] .......................................... 8,817ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:41:32 Running ["artisan" lelang:update-status] .......................................... 8,793ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:43:32 Running ["artisan" lelang:update-status] .......................................... 9,203ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:47:32 Running ["artisan" lelang:update-status] .......................................... 8,973ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:48:32 Running ["artisan" lelang:update-status] .......................................... 8,858ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:49:32 Running ["artisan" lelang:update-status] .......................................... 9,245ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:50:32 Running ["artisan" lelang:update-status] .......................................... 9,036ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:54:32 Running ["artisan" lelang:update-status] .......................................... 9,057ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:56:32 Running ["artisan" lelang:update-status] .......................................... 9,033ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:57:32 Running ["artisan" lelang:update-status] .......................................... 8,992ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:58:32 Running ["artisan" lelang:update-status] .......................................... 8,843ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 09:59:32 Running ["artisan" lelang:update-status] .......................................... 9,051ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:00:32 Running ["artisan" lelang:update-status] .......................................... 9,225ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:07:32 Running ["artisan" lelang:update-status] .......................................... 8,981ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:08:32 Running ["artisan" lelang:update-status] .......................................... 9,253ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:09:32 Running ["artisan" lelang:update-status] .......................................... 9,303ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:11:32 Running ["artisan" lelang:update-status] .......................................... 8,813ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:12:32 Running ["artisan" lelang:update-status] .......................................... 9,198ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:13:32 Running ["artisan" lelang:update-status] .......................................... 8,988ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:14:32 Running ["artisan" lelang:update-status] .......................................... 8,734ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:20:32 Running ["artisan" lelang:update-status] .......................................... 8,930ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:28:32 Running ["artisan" lelang:update-status] .......................................... 8,867ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:44:32 Running ["artisan" lelang:update-status] .......................................... 8,870ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:45:32 Running ["artisan" lelang:update-status] .......................................... 8,942ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:46:32 Running ["artisan" lelang:update-status] .......................................... 8,802ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:47:32 Running ["artisan" lelang:update-status] .......................................... 8,950ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:49:32 Running ["artisan" lelang:update-status] .......................................... 8,775ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:51:32 Running ["artisan" lelang:update-status] .......................................... 8,900ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 10:58:32 Running ["artisan" lelang:update-status] .......................................... 8,646ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:00:32 Running ["artisan" lelang:update-status] .......................................... 8,662ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:01:32 Running ["artisan" lelang:update-status] .......................................... 8,695ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:15:32 Running ["artisan" lelang:update-status] .......................................... 8,811ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:17:32 Running ["artisan" lelang:update-status] .......................................... 8,750ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:18:32 Running ["artisan" lelang:update-status] .......................................... 8,756ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:19:32 Running ["artisan" lelang:update-status] .......................................... 8,797ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:20:32 Running ["artisan" lelang:update-status] .......................................... 8,787ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:21:32 Running ["artisan" lelang:update-status] .......................................... 8,812ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:22:32 Running ["artisan" lelang:update-status] .......................................... 8,800ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:23:32 Running ["artisan" lelang:update-status] .......................................... 8,771ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:34:32 Running ["artisan" lelang:update-status] .......................................... 8,810ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:37:32 Running ["artisan" lelang:update-status] .......................................... 8,796ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:38:33 Running ["artisan" lelang:update-status] .......................................... 8,838ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:39:32 Running ["artisan" lelang:update-status] .......................................... 8,814ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:40:32 Running ["artisan" lelang:update-status] .......................................... 8,755ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:41:32 Running ["artisan" lelang:update-status] .......................................... 8,793ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:45:32 Running ["artisan" lelang:update-status] .......................................... 8,697ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:46:32 Running ["artisan" lelang:update-status] .......................................... 8,755ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:47:32 Running ["artisan" lelang:update-status] .......................................... 8,762ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:48:32 Running ["artisan" lelang:update-status] .......................................... 8,773ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:49:32 Running ["artisan" lelang:update-status] .......................................... 8,716ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:54:32 Running ["artisan" lelang:update-status] .......................................... 8,798ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:55:32 Running ["artisan" lelang:update-status] .......................................... 9,009ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:56:32 Running ["artisan" lelang:update-status] .......................................... 9,031ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:57:32 Running ["artisan" lelang:update-status] .......................................... 9,016ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 11:59:32 Running ["artisan" lelang:update-status] .......................................... 8,892ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:00:32 Running ["artisan" lelang:update-status] .......................................... 8,997ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:08:12 Running ["artisan" lelang:update-status] ...................................... 2,772,169ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:54:38 Running ["artisan" lelang:update-status] .......................................... 9,662ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:55:32 Running ["artisan" lelang:update-status] .......................................... 9,051ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:56:32 Running ["artisan" lelang:update-status] .......................................... 9,214ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:57:32 Running ["artisan" lelang:update-status] .......................................... 8,988ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:58:32 Running ["artisan" lelang:update-status] .......................................... 9,023ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 12:59:32 Running ["artisan" lelang:update-status] .......................................... 9,011ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:00:33 Running ["artisan" lelang:update-status] ......................................... 10,051ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:01:33 Running ["artisan" lelang:update-status] .......................................... 9,838ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:02:33 Running ["artisan" lelang:update-status] ......................................... 10,073ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:03:33 Running ["artisan" lelang:update-status] .......................................... 9,847ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:04:33 Running ["artisan" lelang:update-status] .......................................... 9,850ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:05:33 Running ["artisan" lelang:update-status] .......................................... 9,897ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:06:33 Running ["artisan" lelang:update-status] .......................................... 9,884ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:07:33 Running ["artisan" lelang:update-status] .......................................... 9,869ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:08:33 Running ["artisan" lelang:update-status] .......................................... 9,907ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:09:33 Running ["artisan" lelang:update-status] .......................................... 9,881ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:10:33 Running ["artisan" lelang:update-status] .......................................... 9,862ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:11:33 Running ["artisan" lelang:update-status] .......................................... 9,859ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:12:33 Running ["artisan" lelang:update-status] .......................................... 9,847ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:13:33 Running ["artisan" lelang:update-status] .......................................... 9,894ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:14:33 Running ["artisan" lelang:update-status] .......................................... 9,881ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:15:33 Running ["artisan" lelang:update-status] .......................................... 9,892ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:16:34 Running ["artisan" lelang:update-status] ......................................... 11,237ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:17:33 Running ["artisan" lelang:update-status] .......................................... 9,917ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:18:33 Running ["artisan" lelang:update-status] .......................................... 9,883ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:19:32 Running ["artisan" lelang:update-status] .......................................... 9,852ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:20:33 Running ["artisan" lelang:update-status] .......................................... 9,667ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:21:33 Running ["artisan" lelang:update-status] .......................................... 9,845ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:22:33 Running ["artisan" lelang:update-status] .......................................... 9,878ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:23:33 Running ["artisan" lelang:update-status] .......................................... 9,862ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:24:33 Running ["artisan" lelang:update-status] .......................................... 9,873ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:25:33 Running ["artisan" lelang:update-status] .......................................... 9,907ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:26:33 Running ["artisan" lelang:update-status] .......................................... 9,681ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:27:32 Running ["artisan" lelang:update-status] .......................................... 9,819ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:28:32 Running ["artisan" lelang:update-status] .......................................... 9,826ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:29:32 Running ["artisan" lelang:update-status] .......................................... 9,839ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:30:33 Running ["artisan" lelang:update-status] .......................................... 9,860ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:31:32 Running ["artisan" lelang:update-status] .......................................... 9,881ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:32:32 Running ["artisan" lelang:update-status] .......................................... 9,642ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:33:32 Running ["artisan" lelang:update-status] .......................................... 9,669ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:34:32 Running ["artisan" lelang:update-status] .......................................... 9,812ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:36:32 Running ["artisan" lelang:update-status] .......................................... 9,022ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:37:32 Running ["artisan" lelang:update-status] .......................................... 9,253ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:38:32 Running ["artisan" lelang:update-status] .......................................... 9,225ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:39:32 Running ["artisan" lelang:update-status] .......................................... 9,252ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:40:33 Running ["artisan" lelang:update-status] .......................................... 9,845ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:42:32 Running ["artisan" lelang:update-status] .......................................... 9,010ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:43:32 Running ["artisan" lelang:update-status] .......................................... 9,017ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:44:32 Running ["artisan" lelang:update-status] .......................................... 9,019ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:45:32 Running ["artisan" lelang:update-status] .......................................... 8,992ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:48:32 Running ["artisan" lelang:update-status] .......................................... 9,017ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:49:32 Running ["artisan" lelang:update-status] .......................................... 8,822ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:50:32 Running ["artisan" lelang:update-status] .......................................... 8,816ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:51:32 Running ["artisan" lelang:update-status] .......................................... 9,242ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:52:32 Running ["artisan" lelang:update-status] .......................................... 9,048ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:53:32 Running ["artisan" lelang:update-status] .......................................... 9,023ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 13:57:32 Running ["artisan" lelang:update-status] .......................................... 8,989ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:03:32 Running ["artisan" lelang:update-status] .......................................... 8,807ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:04:33 Running ["artisan" lelang:update-status] .......................................... 8,835ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:05:32 Running ["artisan" lelang:update-status] .......................................... 8,748ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:06:33 Running ["artisan" lelang:update-status] .......................................... 8,800ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:07:32 Running ["artisan" lelang:update-status] .......................................... 8,787ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:08:33 Running ["artisan" lelang:update-status] .......................................... 1,063ms DONE
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:09:32 Running ["artisan" lelang:update-status] .......................................... 8,806ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:10:32 Running ["artisan" lelang:update-status] .......................................... 8,794ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:11:32 Running ["artisan" lelang:update-status] .......................................... 8,764ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:12:32 Running ["artisan" lelang:update-status] .......................................... 8,790ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:13:32 Running ["artisan" lelang:update-status] .......................................... 8,764ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:14:32 Running ["artisan" lelang:update-status] .......................................... 8,751ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:15:32 Running ["artisan" lelang:update-status] .......................................... 8,775ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:16:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:17:32 Running ["artisan" lelang:update-status] .......................................... 8,788ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:18:32 Running ["artisan" lelang:update-status] .......................................... 8,777ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:19:32 Running ["artisan" lelang:update-status] .......................................... 8,798ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:20:32 Running ["artisan" lelang:update-status] .......................................... 8,751ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:21:32 Running ["artisan" lelang:update-status] .......................................... 8,730ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:22:32 Running ["artisan" lelang:update-status] .......................................... 8,782ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:23:32 Running ["artisan" lelang:update-status] .......................................... 8,749ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:24:32 Running ["artisan" lelang:update-status] .......................................... 8,763ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:25:32 Running ["artisan" lelang:update-status] .......................................... 8,747ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:26:32 Running ["artisan" lelang:update-status] .......................................... 8,790ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:27:32 Running ["artisan" lelang:update-status] .......................................... 8,796ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:28:32 Running ["artisan" lelang:update-status] .......................................... 8,786ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:29:32 Running ["artisan" lelang:update-status] .......................................... 8,746ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:30:32 Running ["artisan" lelang:update-status] .......................................... 8,790ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:31:32 Running ["artisan" lelang:update-status] .......................................... 8,768ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:32:32 Running ["artisan" lelang:update-status] .......................................... 8,776ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:33:32 Running ["artisan" lelang:update-status] .......................................... 8,977ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:34:32 Running ["artisan" lelang:update-status] .......................................... 8,805ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:35:32 Running ["artisan" lelang:update-status] .......................................... 8,810ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:36:32 Running ["artisan" lelang:update-status] .......................................... 8,920ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:37:32 Running ["artisan" lelang:update-status] .......................................... 8,959ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:38:32 Running ["artisan" lelang:update-status] .......................................... 8,762ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:39:32 Running ["artisan" lelang:update-status] .......................................... 8,959ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:40:32 Running ["artisan" lelang:update-status] .......................................... 8,805ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:41:32 Running ["artisan" lelang:update-status] .......................................... 8,927ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:42:32 Running ["artisan" lelang:update-status] .......................................... 8,765ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:44:33 Running ["artisan" lelang:update-status] ......................................... 27,968ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:45:32 Running ["artisan" lelang:update-status] .......................................... 9,035ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:51:32 Running ["artisan" lelang:update-status] .......................................... 9,063ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-08-13 14:52:32 Running ["artisan" lelang:update-status] .......................................... 9,046ms FAIL
+  ⇂ "C:\xampp\php\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:35:47 Running ["artisan" lelang:update-status] ............................................ 641ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:36:32 Running ["artisan" lelang:update-status] ............................................ 634ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:37:32 Running ["artisan" lelang:update-status] ............................................ 649ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:38:32 Running ["artisan" lelang:update-status] ............................................ 619ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:39:32 Running ["artisan" lelang:update-status] ............................................ 653ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:40:32 Running ["artisan" lelang:update-status] ............................................ 440ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:41:32 Running ["artisan" lelang:update-status] ............................................ 882ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:42:32 Running ["artisan" lelang:update-status] ............................................ 874ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:43:32 Running ["artisan" lelang:update-status] ............................................ 660ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:44:32 Running ["artisan" lelang:update-status] ............................................ 439ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:45:32 Running ["artisan" lelang:update-status] ............................................ 632ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:46:32 Running ["artisan" lelang:update-status] ............................................ 650ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:47:32 Running ["artisan" lelang:update-status] ............................................ 637ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:48:32 Running ["artisan" lelang:update-status] ............................................ 625ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:49:32 Running ["artisan" lelang:update-status] ............................................ 620ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:50:32 Running ["artisan" lelang:update-status] ............................................ 630ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:51:33 Running ["artisan" lelang:update-status] ............................................ 856ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:52:32 Running ["artisan" lelang:update-status] .......................................... 1,306ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:53:32 Running ["artisan" lelang:update-status] ............................................ 650ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:54:32 Running ["artisan" lelang:update-status] ............................................ 645ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:55:32 Running ["artisan" lelang:update-status] ............................................ 665ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:56:32 Running ["artisan" lelang:update-status] ............................................ 867ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:57:32 Running ["artisan" lelang:update-status] ............................................ 860ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:58:32 Running ["artisan" lelang:update-status] ............................................ 639ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 13:59:32 Running ["artisan" lelang:update-status] ............................................ 855ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:00:32 Running ["artisan" lelang:update-status] ............................................ 637ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:01:32 Running ["artisan" lelang:update-status] ............................................ 637ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:02:32 Running ["artisan" lelang:update-status] ............................................ 636ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:03:32 Running ["artisan" lelang:update-status] ............................................ 634ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:04:32 Running ["artisan" lelang:update-status] ............................................ 648ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:05:32 Running ["artisan" lelang:update-status] ............................................ 659ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:06:32 Running ["artisan" lelang:update-status] ............................................ 844ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:07:33 Running ["artisan" lelang:update-status] .......................................... 1,704ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:08:33 Running ["artisan" lelang:update-status] .......................................... 1,077ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:09:33 Running ["artisan" lelang:update-status] .......................................... 1,101ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:10:33 Running ["artisan" lelang:update-status] .......................................... 1,277ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:11:32 Running ["artisan" lelang:update-status] .......................................... 1,101ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:12:35 Running ["artisan" lelang:update-status] .......................................... 1,722ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:13:34 Running ["artisan" lelang:update-status] .......................................... 2,893ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:14:34 Running ["artisan" lelang:update-status] .......................................... 1,479ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:15:33 Running ["artisan" lelang:update-status] .......................................... 1,526ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:16:32 Running ["artisan" lelang:update-status] .......................................... 1,520ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:17:33 Running ["artisan" lelang:update-status] .......................................... 1,991ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:18:32 Running ["artisan" lelang:update-status] ............................................ 877ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:19:33 Running ["artisan" lelang:update-status] .......................................... 1,054ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:20:34 Running ["artisan" lelang:update-status] .......................................... 1,573ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:21:32 Running ["artisan" lelang:update-status] .......................................... 1,322ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:22:32 Running ["artisan" lelang:update-status] ............................................ 856ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:23:32 Running ["artisan" lelang:update-status] ............................................ 871ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:24:33 Running ["artisan" lelang:update-status] ............................................ 856ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:25:38 Running ["artisan" lelang:update-status] .......................................... 4,170ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:26:40 Running ["artisan" lelang:update-status] .......................................... 5,972ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:27:32 Running ["artisan" lelang:update-status] .......................................... 1,082ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:28:32 Running ["artisan" lelang:update-status] ............................................ 863ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:29:32 Running ["artisan" lelang:update-status] ............................................ 646ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:30:32 Running ["artisan" lelang:update-status] ............................................ 670ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:31:32 Running ["artisan" lelang:update-status] .......................................... 1,300ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:32:32 Running ["artisan" lelang:update-status] .......................................... 1,065ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:33:32 Running ["artisan" lelang:update-status] ............................................ 637ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:34:32 Running ["artisan" lelang:update-status] .......................................... 1,078ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:35:33 Running ["artisan" lelang:update-status] .......................................... 1,434ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:36:31 Running ["artisan" lelang:update-status] ............................................ 658ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:37:32 Running ["artisan" lelang:update-status] ............................................ 651ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:38:32 Running ["artisan" lelang:update-status] ............................................ 664ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:39:32 Running ["artisan" lelang:update-status] ............................................ 629ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:40:32 Running ["artisan" lelang:update-status] ............................................ 654ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:41:32 Running ["artisan" lelang:update-status] ............................................ 664ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+
+
+  2025-12-01 14:42:32 Running ["artisan" lelang:update-status] ............................................ 639ms DONE
+  ⇂ "D:\laragon\bin\php\php-8.4.14-Win32-vs17-x64\php.exe" "artisan" lelang:update-status > "NUL" 2>&1  
+

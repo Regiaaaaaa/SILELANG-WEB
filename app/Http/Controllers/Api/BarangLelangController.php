@@ -68,8 +68,8 @@ class BarangLelangController extends Controller
             'kondisi' => 'required|in:baru,bekas',
             'merek' => 'required|string|max:255',
             'deskripsi' => 'required|string|max:1000',
-            'gambar' => 'required|array|min:1|max:5', // Array minimal 1, maksimal 5 gambar
-            'gambar.*' => 'string|max:255', // Setiap gambar harus string
+            'gambar' => 'required|array|min:1|max:5', 
+            'gambar.*' => 'string|max:255', 
             'lokasi' => 'required|string|max:255',
             'harga_awal' => 'required|numeric|min:1000',
             'waktu_mulai' => 'nullable|date|after_or_equal:now',
