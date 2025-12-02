@@ -62,6 +62,14 @@
                         <span class="font-medium text-sm">Kelola Barang</span>
                     </a>
 
+                    <a href="{{ route('admin.pantau.lelang.index') }}"
+                        class="flex items-center space-x-3 px-3 py-2.5 rounded-lg transition-colors {{ request()->routeIs('admin.pantau.lelang.*') ? 'bg-custom-blue text-white' : 'text-gray-700 hover:bg-gray-100' }}">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path d="M3 7h18M7 7v14h10V7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                        <span class="font-medium text-sm">Pantau Lelang</span>
+                    </a>
+
                     <a href="{{ route('admin.users.index') }}"
                         class="flex items-center space-x-3 px-3 py-2.5 rounded-lg transition-colors {{ request()->routeIs('admin.users.*') ? 'bg-custom-blue text-white' : 'text-gray-700 hover:bg-gray-100' }}">
                         <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">

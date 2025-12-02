@@ -16,7 +16,7 @@ class Penawaran extends Model
         'barang_lelang_id',
         'jumlah_penawaran',
         'waktu_penawaran',
-        
+
     ];
 
     public function user() {

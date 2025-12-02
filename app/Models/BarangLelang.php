@@ -26,7 +26,7 @@ class BarangLelang extends Model
         'waktu_selesai',
         'status',
     ];
-    
+
     protected $casts = [
         'waktu_mulai' => 'datetime',
         'waktu_selesai' => 'datetime',

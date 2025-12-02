@@ -7,6 +7,7 @@ use App\Http\Controllers\BarangLelangController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\PengajuanUserController;
 use App\Http\Controllers\KategoriController;
+use App\Http\Controllers\PantauLelangController;
 
 
 Route::get('/', function () {
@@ -27,7 +28,14 @@ Route::prefix('admin')->name('admin.')->group(function () {
     Route::get('/pengajuan-aktif', [PengajuanUserController::class, 'aktif'])->name('pengajuan.aktif');
     Route::get('/pengajuan-selesai', [PengajuanUserController::class, 'selesai'])->name('pengajuan.selesai');
 
-    
+
+    Route::get('/pantau-lelang', [PantauLelangController::class, 'index'])->name('pantau.lelang.index');
+    Route::get('/pantau-lelang/{id}', [PantauLelangController::class, 'show'])->name('pantau.show');
+
+
+
+
+
     Route::resource('kategori', KategoriController::class);
 });
 
